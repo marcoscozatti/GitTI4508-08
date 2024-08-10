@@ -16,5 +16,15 @@ namespace Ti45_08_08_2024
         {
             InitializeComponent();
         }
+
+        private void btnFechar_Click(object sender, EventArgs e)
+        {
+            this.Close();   
+        }
+
+        private void btnIncluir_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

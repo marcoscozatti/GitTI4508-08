@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\marcos.afcozatti\\source\\repos\\Ti45-08-08-2024\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A3A79829-1F34-4FAE-9BFE-1BBB2E18D0A7}|Ti45-08-08-2024\\Ti45-08-08-2024.csproj|c:\\users\\marcos.afcozatti\\source\\repos\\ti45-08-08-2024\\ti45-08-08-2024\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3A79829-1F34-4FAE-9BFE-1BBB2E18D0A7}|Ti45-08-08-2024\\Ti45-08-08-2024.csproj|solutionrelative:ti45-08-08-2024\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A79829-1F34-4FAE-9BFE-1BBB2E18D0A7}|Ti45-08-08-2024\\Ti45-08-08-2024.csproj|c:\\users\\marcos.afcozatti\\source\\repos\\ti45-08-08-2024\\ti45-08-08-2024\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A79829-1F34-4FAE-9BFE-1BBB2E18D0A7}|Ti45-08-08-2024\\Ti45-08-08-2024.csproj|solutionrelative:ti45-08-08-2024\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A79829-1F34-4FAE-9BFE-1BBB2E18D0A7}|Ti45-08-08-2024\\Ti45-08-08-2024.csproj|c:\\users\\marcos.afcozatti\\source\\repos\\ti45-08-08-2024\\ti45-08-08-2024\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A79829-1F34-4FAE-9BFE-1BBB2E18D0A7}|Ti45-08-08-2024\\Ti45-08-08-2024.csproj|solutionrelative:ti45-08-08-2024\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A79829-1F34-4FAE-9BFE-1BBB2E18D0A7}|Ti45-08-08-2024\\Ti45-08-08-2024.csproj|c:\\users\\marcos.afcozatti\\source\\repos\\ti45-08-08-2024\\ti45-08-08-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A79829-1F34-4FAE-9BFE-1BBB2E18D0A7}|Ti45-08-08-2024\\Ti45-08-08-2024.csproj|solutionrelative:ti45-08-08-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A79829-1F34-4FAE-9BFE-1BBB2E18D0A7}|Ti45-08-08-2024\\Ti45-08-08-2024.csproj|C:\\Users\\marcos.afcozatti\\source\\repos\\Ti45-08-08-2024\\ti45-08-08-2024\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3A79829-1F34-4FAE-9BFE-1BBB2E18D0A7}|Ti45-08-08-2024\\Ti45-08-08-2024.csproj|solutionrelative:ti45-08-08-2024\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A3A79829-1F34-4FAE-9BFE-1BBB2E18D0A7}|Ti45-08-08-2024\\Ti45-08-08-2024.csproj|C:\\Users\\marcos.afcozatti\\source\\repos\\Ti45-08-08-2024\\ti45-08-08-2024\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3A79829-1F34-4FAE-9BFE-1BBB2E18D0A7}|Ti45-08-08-2024\\Ti45-08-08-2024.csproj|solutionrelative:ti45-08-08-2024\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3A79829-1F34-4FAE-9BFE-1BBB2E18D0A7}|Ti45-08-08-2024\\Ti45-08-08-2024.csproj|c:\\users\\marcos.afcozatti\\source\\repos\\ti45-08-08-2024\\ti45-08-08-2024\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A3A79829-1F34-4FAE-9BFE-1BBB2E18D0A7}|Ti45-08-08-2024\\Ti45-08-08-2024.csproj|solutionrelative:ti45-08-08-2024\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3A79829-1F34-4FAE-9BFE-1BBB2E18D0A7}|Ti45-08-08-2024\\Ti45-08-08-2024.csproj|C:\\Users\\marcos.afcozatti\\source\\repos\\Ti45-08-08-2024\\ti45-08-08-2024\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A3A79829-1F34-4FAE-9BFE-1BBB2E18D0A7}|Ti45-08-08-2024\\Ti45-08-08-2024.csproj|solutionrelative:ti45-08-08-2024\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +38,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marcos.afcozatti\\source\\repos\\Ti45-08-08-2024\\Ti45-08-08-2024\\Program.cs",
+              "RelativeDocumentMoniker": "Ti45-08-08-2024\\Program.cs",
+              "ToolTip": "C:\\Users\\marcos.afcozatti\\source\\repos\\Ti45-08-08-2024\\Ti45-08-08-2024\\Program.cs",
+              "RelativeToolTip": "Ti45-08-08-2024\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:42:41.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\marcos.afcozatti\\source\\repos\\Ti45-08-08-2024\\Ti45-08-08-2024\\Clientes.cs",
+              "RelativeDocumentMoniker": "Ti45-08-08-2024\\Clientes.cs",
+              "ToolTip": "C:\\Users\\marcos.afcozatti\\source\\repos\\Ti45-08-08-2024\\Ti45-08-08-2024\\Clientes.cs",
+              "RelativeToolTip": "Ti45-08-08-2024\\Clientes.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAlwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:34:14.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\marcos.afcozatti\\source\\repos\\Ti45-08-08-2024\\Ti45-08-08-2024\\Login.cs",
+              "RelativeDocumentMoniker": "Ti45-08-08-2024\\Login.cs",
+              "ToolTip": "C:\\Users\\marcos.afcozatti\\source\\repos\\Ti45-08-08-2024\\Ti45-08-08-2024\\Login.cs",
+              "RelativeToolTip": "Ti45-08-08-2024\\Login.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAlwBkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:15:31.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marcos.afcozatti\\source\\repos\\Ti45-08-08-2024\\Ti45-08-08-2024\\Login.cs",
+              "RelativeDocumentMoniker": "Ti45-08-08-2024\\Login.cs",
+              "ToolTip": "C:\\Users\\marcos.afcozatti\\source\\repos\\Ti45-08-08-2024\\Ti45-08-08-2024\\Login.cs [Design]",
+              "RelativeToolTip": "Ti45-08-08-2024\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:10:32.288Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MenuPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\marcos.afcozatti\\source\\repos\\Ti45-08-08-2024\\Ti45-08-08-2024\\MenuPrincipal.cs",
               "RelativeDocumentMoniker": "Ti45-08-08-2024\\MenuPrincipal.cs",
               "ToolTip": "C:\\Users\\marcos.afcozatti\\source\\repos\\Ti45-08-08-2024\\Ti45-08-08-2024\\MenuPrincipal.cs",
               "RelativeToolTip": "Ti45-08-08-2024\\MenuPrincipal.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBcAAAAAAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAlwBQAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-09T00:21:55.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "MenuPrincipal.cs [Design]",
               "DocumentMoniker": "C:\\Users\\marcos.afcozatti\\source\\repos\\Ti45-08-08-2024\\Ti45-08-08-2024\\MenuPrincipal.cs",
               "RelativeDocumentMoniker": "Ti45-08-08-2024\\MenuPrincipal.cs",
@@ -51,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Clientes.cs [Design]",
               "DocumentMoniker": "C:\\Users\\marcos.afcozatti\\source\\repos\\Ti45-08-08-2024\\Ti45-08-08-2024\\Clientes.cs",
               "RelativeDocumentMoniker": "Ti45-08-08-2024\\Clientes.cs",

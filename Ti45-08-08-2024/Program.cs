@@ -16,7 +16,7 @@ namespace Ti45_08_08_2024
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MenuPrincipal());
+            Application.Run(new Login());
         }
     }
 }

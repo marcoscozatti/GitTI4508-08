@@ -9,3 +9,4 @@ C:\Users\marcos.afcozatti\source\repos\Ti45-08-08-2024\Ti45-08-08-2024\obj\Debug
 C:\Users\marcos.afcozatti\source\repos\Ti45-08-08-2024\Ti45-08-08-2024\obj\Debug\Ti45-08-08-2024.pdb
 C:\Users\marcos.afcozatti\source\repos\Ti45-08-08-2024\Ti45-08-08-2024\obj\Debug\Ti45_08_08_2024.MenuPrincipal.resources
 C:\Users\marcos.afcozatti\source\repos\Ti45-08-08-2024\Ti45-08-08-2024\obj\Debug\Ti45_08_08_2024.Clientes.resources
+C:\Users\marcos.afcozatti\source\repos\Ti45-08-08-2024\Ti45-08-08-2024\obj\Debug\Ti45_08_08_2024.Login.resources

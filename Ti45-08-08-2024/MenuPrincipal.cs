@@ -23,5 +23,10 @@ namespace Ti45_08_08_2024
             clientes.Show();
 
         }
+
+        private void sairToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

@@ -29,20 +29,20 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.lblId = new System.Windows.Forms.Label();
-            this.txtID = new System.Windows.Forms.TextBox();
-            this.txtNome = new System.Windows.Forms.TextBox();
-            this.lblNome = new System.Windows.Forms.Label();
-            this.txtSobrenome = new System.Windows.Forms.TextBox();
-            this.lblSobrenome = new System.Windows.Forms.Label();
-            this.txtCPF = new System.Windows.Forms.TextBox();
-            this.lblCPF = new System.Windows.Forms.Label();
+            this.btnFechar = new System.Windows.Forms.Button();
+            this.btnExcluir = new System.Windows.Forms.Button();
+            this.btnAlterar = new System.Windows.Forms.Button();
+            this.btnIncluir = new System.Windows.Forms.Button();
             this.txtCelular = new System.Windows.Forms.TextBox();
             this.lblCelular = new System.Windows.Forms.Label();
-            this.btnIncluir = new System.Windows.Forms.Button();
-            this.btnAlterar = new System.Windows.Forms.Button();
-            this.btnExcluir = new System.Windows.Forms.Button();
-            this.btnFechar = new System.Windows.Forms.Button();
+            this.txtCPF = new System.Windows.Forms.TextBox();
+            this.lblCPF = new System.Windows.Forms.Label();
+            this.txtSobrenome = new System.Windows.Forms.TextBox();
+            this.lblSobrenome = new System.Windows.Forms.Label();
+            this.txtNome = new System.Windows.Forms.TextBox();
+            this.lblNome = new System.Windows.Forms.Label();
+            this.txtID = new System.Windows.Forms.TextBox();
+            this.lblId = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -69,69 +69,43 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "CadBásico";
             // 
-            // lblId
+            // btnFechar
             // 
-            this.lblId.AutoSize = true;
-            this.lblId.Location = new System.Drawing.Point(16, 35);
-            this.lblId.Name = "lblId";
-            this.lblId.Size = new System.Drawing.Size(18, 13);
-            this.lblId.TabIndex = 0;
-            this.lblId.Text = "ID";
+            this.btnFechar.Location = new System.Drawing.Point(262, 179);
+            this.btnFechar.Name = "btnFechar";
+            this.btnFechar.Size = new System.Drawing.Size(75, 23);
+            this.btnFechar.TabIndex = 13;
+            this.btnFechar.Text = "Fechar";
+            this.btnFechar.UseVisualStyleBackColor = true;
+            this.btnFechar.Click += new System.EventHandler(this.btnFechar_Click);
             // 
-            // txtID
+            // btnExcluir
             // 
-            this.txtID.Location = new System.Drawing.Point(83, 35);
-            this.txtID.Name = "txtID";
-            this.txtID.Size = new System.Drawing.Size(70, 20);
-            this.txtID.TabIndex = 1;
+            this.btnExcluir.Location = new System.Drawing.Point(181, 179);
+            this.btnExcluir.Name = "btnExcluir";
+            this.btnExcluir.Size = new System.Drawing.Size(75, 23);
+            this.btnExcluir.TabIndex = 12;
+            this.btnExcluir.Text = "Excluir";
+            this.btnExcluir.UseVisualStyleBackColor = true;
             // 
-            // txtNome
+            // btnAlterar
             // 
-            this.txtNome.Location = new System.Drawing.Point(83, 61);
-            this.txtNome.Name = "txtNome";
-            this.txtNome.Size = new System.Drawing.Size(254, 20);
-            this.txtNome.TabIndex = 3;
+            this.btnAlterar.Location = new System.Drawing.Point(100, 179);
+            this.btnAlterar.Name = "btnAlterar";
+            this.btnAlterar.Size = new System.Drawing.Size(75, 23);
+            this.btnAlterar.TabIndex = 11;
+            this.btnAlterar.Text = "Alterar";
+            this.btnAlterar.UseVisualStyleBackColor = true;
             // 
-            // lblNome
+            // btnIncluir
             // 
-            this.lblNome.AutoSize = true;
-            this.lblNome.Location = new System.Drawing.Point(16, 61);
-            this.lblNome.Name = "lblNome";
-            this.lblNome.Size = new System.Drawing.Size(35, 13);
-            this.lblNome.TabIndex = 2;
-            this.lblNome.Text = "Nome";
-            // 
-            // txtSobrenome
-            // 
-            this.txtSobrenome.Location = new System.Drawing.Point(83, 87);
-            this.txtSobrenome.Name = "txtSobrenome";
-            this.txtSobrenome.Size = new System.Drawing.Size(254, 20);
-            this.txtSobrenome.TabIndex = 5;
-            // 
-            // lblSobrenome
-            // 
-            this.lblSobrenome.AutoSize = true;
-            this.lblSobrenome.Location = new System.Drawing.Point(16, 87);
-            this.lblSobrenome.Name = "lblSobrenome";
-            this.lblSobrenome.Size = new System.Drawing.Size(61, 13);
-            this.lblSobrenome.TabIndex = 4;
-            this.lblSobrenome.Text = "Sobrenome";
-            // 
-            // txtCPF
-            // 
-            this.txtCPF.Location = new System.Drawing.Point(83, 113);
-            this.txtCPF.Name = "txtCPF";
-            this.txtCPF.Size = new System.Drawing.Size(146, 20);
-            this.txtCPF.TabIndex = 7;
-            // 
-            // lblCPF
-            // 
-            this.lblCPF.AutoSize = true;
-            this.lblCPF.Location = new System.Drawing.Point(16, 113);
-            this.lblCPF.Name = "lblCPF";
-            this.lblCPF.Size = new System.Drawing.Size(27, 13);
-            this.lblCPF.TabIndex = 6;
-            this.lblCPF.Text = "CPF";
+            this.btnIncluir.Location = new System.Drawing.Point(19, 179);
+            this.btnIncluir.Name = "btnIncluir";
+            this.btnIncluir.Size = new System.Drawing.Size(75, 23);
+            this.btnIncluir.TabIndex = 10;
+            this.btnIncluir.Text = "Incluir";
+            this.btnIncluir.UseVisualStyleBackColor = true;
+            this.btnIncluir.Click += new System.EventHandler(this.btnIncluir_Click);
             // 
             // txtCelular
             // 
@@ -149,41 +123,69 @@
             this.lblCelular.TabIndex = 8;
             this.lblCelular.Text = "Celular";
             // 
-            // btnIncluir
+            // txtCPF
             // 
-            this.btnIncluir.Location = new System.Drawing.Point(19, 179);
-            this.btnIncluir.Name = "btnIncluir";
-            this.btnIncluir.Size = new System.Drawing.Size(75, 23);
-            this.btnIncluir.TabIndex = 10;
-            this.btnIncluir.Text = "Incluir";
-            this.btnIncluir.UseVisualStyleBackColor = true;
+            this.txtCPF.Location = new System.Drawing.Point(83, 113);
+            this.txtCPF.Name = "txtCPF";
+            this.txtCPF.Size = new System.Drawing.Size(146, 20);
+            this.txtCPF.TabIndex = 7;
             // 
-            // btnAlterar
+            // lblCPF
             // 
-            this.btnAlterar.Location = new System.Drawing.Point(100, 179);
-            this.btnAlterar.Name = "btnAlterar";
-            this.btnAlterar.Size = new System.Drawing.Size(75, 23);
-            this.btnAlterar.TabIndex = 11;
-            this.btnAlterar.Text = "Alterar";
-            this.btnAlterar.UseVisualStyleBackColor = true;
+            this.lblCPF.AutoSize = true;
+            this.lblCPF.Location = new System.Drawing.Point(16, 113);
+            this.lblCPF.Name = "lblCPF";
+            this.lblCPF.Size = new System.Drawing.Size(27, 13);
+            this.lblCPF.TabIndex = 6;
+            this.lblCPF.Text = "CPF";
             // 
-            // btnExcluir
+            // txtSobrenome
             // 
-            this.btnExcluir.Location = new System.Drawing.Point(181, 179);
-            this.btnExcluir.Name = "btnExcluir";
-            this.btnExcluir.Size = new System.Drawing.Size(75, 23);
-            this.btnExcluir.TabIndex = 12;
-            this.btnExcluir.Text = "Excluir";
-            this.btnExcluir.UseVisualStyleBackColor = true;
+            this.txtSobrenome.Location = new System.Drawing.Point(83, 87);
+            this.txtSobrenome.Name = "txtSobrenome";
+            this.txtSobrenome.Size = new System.Drawing.Size(254, 20);
+            this.txtSobrenome.TabIndex = 5;
             // 
-            // btnFechar
+            // lblSobrenome
             // 
-            this.btnFechar.Location = new System.Drawing.Point(262, 179);
-            this.btnFechar.Name = "btnFechar";
-            this.btnFechar.Size = new System.Drawing.Size(75, 23);
-            this.btnFechar.TabIndex = 13;
-            this.btnFechar.Text = "Fechar";
-            this.btnFechar.UseVisualStyleBackColor = true;
+            this.lblSobrenome.AutoSize = true;
+            this.lblSobrenome.Location = new System.Drawing.Point(16, 87);
+            this.lblSobrenome.Name = "lblSobrenome";
+            this.lblSobrenome.Size = new System.Drawing.Size(61, 13);
+            this.lblSobrenome.TabIndex = 4;
+            this.lblSobrenome.Text = "Sobrenome";
+            // 
+            // txtNome
+            // 
+            this.txtNome.Location = new System.Drawing.Point(83, 61);
+            this.txtNome.Name = "txtNome";
+            this.txtNome.Size = new System.Drawing.Size(254, 20);
+            this.txtNome.TabIndex = 3;
+            // 
+            // lblNome
+            // 
+            this.lblNome.AutoSize = true;
+            this.lblNome.Location = new System.Drawing.Point(16, 61);
+            this.lblNome.Name = "lblNome";
+            this.lblNome.Size = new System.Drawing.Size(35, 13);
+            this.lblNome.TabIndex = 2;
+            this.lblNome.Text = "Nome";
+            // 
+            // txtID
+            // 
+            this.txtID.Location = new System.Drawing.Point(83, 35);
+            this.txtID.Name = "txtID";
+            this.txtID.Size = new System.Drawing.Size(70, 20);
+            this.txtID.TabIndex = 1;
+            // 
+            // lblId
+            // 
+            this.lblId.AutoSize = true;
+            this.lblId.Location = new System.Drawing.Point(16, 35);
+            this.lblId.Name = "lblId";
+            this.lblId.Size = new System.Drawing.Size(18, 13);
+            this.lblId.TabIndex = 0;
+            this.lblId.Text = "ID";
             // 
             // Clientes
             // 
